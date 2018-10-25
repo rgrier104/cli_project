@@ -1,4 +1,4 @@
-class CLIProject::CLI
+class Workout::CLI
 
   def call
 

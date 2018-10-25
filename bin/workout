@@ -1,3 +1,5 @@
 #!/usr/bin/env ruby
 
-CLIProject::CLI.new.call
+require './lib/cli_project'
+
+Workout::CLI.new.call

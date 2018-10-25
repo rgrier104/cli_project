@@ -1,5 +1,6 @@
-require "cli_project/version"
+require 'open-uri'
+require 'nokogiri'
+require 'pry'
 
-module CliProject
-  # Your code goes here...
-end
+require_relative "cli_project/version"
+# require_relative 'cli_project/cli'
