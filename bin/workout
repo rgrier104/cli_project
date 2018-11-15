@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
 require "bundler/setup"
-require_relative "../lib/cli_project"
+require "./lib/cli_project"
 
 Workout::CLI.new.call

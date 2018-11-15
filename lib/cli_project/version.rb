@@ -1,3 +1,3 @@
-module CliProject
+module Workout
   VERSION = "0.1.0"
 end
