@@ -1,3 +1,3 @@
-module Workout
+module BestWine
   VERSION = "0.1.0"
 end

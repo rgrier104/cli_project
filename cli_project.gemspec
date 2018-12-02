@@ -5,7 +5,7 @@ require "cli_project/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "cli_project"
-  spec.version       = Workout::VERSION
+  spec.version       = BestWine::VERSION
   spec.authors       = ["'Rachel Grier'"]
   spec.email         = ["'rgrier104@gmail.com'"]
 
