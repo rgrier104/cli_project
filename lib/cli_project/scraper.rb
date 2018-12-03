@@ -15,4 +15,8 @@ attr_accessor :name, :description
     @@all
   end
 
+  def self.all
+    @@all
+  end
+
 end
